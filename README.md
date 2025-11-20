@@ -1,2 +1,2 @@
-# Exercicios_Js_Vetores06
-Desenvolvido em sala de aula
+# Lista-06-de-Exercicios-Estrutura-de-dados-Vetor
+Exercicios realizados utilizando as tecnologias HTML, CSS e JS 
